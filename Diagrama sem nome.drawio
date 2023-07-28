@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T17:33:10.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nDe9yeM8XfrNd7_Rlroc" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T14:09:58.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4ryrFYRJvuNewLyFXFqK" version="21.6.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1434" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,10 +106,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHNFputFKk8opGdO1RCj-1" value="Integrações ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UgG5REFlC_BB2Rdx2z05-145">
+        <mxCell id="qHNFputFKk8opGdO1RCj-1" value="Outras Integrações ?" style="ellipse;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-145" vertex="1">
           <mxGeometry x="290" y="226" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qHNFputFKk8opGdO1RCj-2" value="Sincronização tempo Real ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UgG5REFlC_BB2Rdx2z05-145">
+        <mxCell id="qHNFputFKk8opGdO1RCj-2" value="Sincronização em tempo Real ?" style="ellipse;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-145" vertex="1">
           <mxGeometry x="290" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UgG5REFlC_BB2Rdx2z05-149" value="Servidor Banco de Dados - 177.70.122.199" style="swimlane;" parent="1" vertex="1">
@@ -238,22 +238,22 @@
         <mxCell id="UgG5REFlC_BB2Rdx2z05-173" value="Pocket" style="rounded=0;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-227" vertex="1">
           <mxGeometry x="11" y="164" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UgG5REFlC_BB2Rdx2z05-134" value="Simas Flex" style="rounded=0;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-227" vertex="1">
+        <mxCell id="UgG5REFlC_BB2Rdx2z05-134" value="Simas Desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-227" vertex="1">
           <mxGeometry x="11" y="102" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UgG5REFlC_BB2Rdx2z05-133" value="Administra Flex" style="rounded=0;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-227" vertex="1">
+        <mxCell id="UgG5REFlC_BB2Rdx2z05-133" value="Administra Desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="UgG5REFlC_BB2Rdx2z05-227" vertex="1">
           <mxGeometry x="11" y="41" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qHNFputFKk8opGdO1RCj-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qHNFputFKk8opGdO1RCj-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="-200" as="sourcePoint" />
             <mxPoint x="730" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHNFputFKk8opGdO1RCj-7" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;labelBackgroundColor=#7b3d3d;" vertex="1" parent="1">
+        <mxCell id="qHNFputFKk8opGdO1RCj-7" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;labelBackgroundColor=#7b3d3d;" parent="1" vertex="1">
           <mxGeometry x="535" y="-820" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHNFputFKk8opGdO1RCj-8" value="Audiitto" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="qHNFputFKk8opGdO1RCj-7">
+        <mxCell id="qHNFputFKk8opGdO1RCj-8" value="Audiitto" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" parent="qHNFputFKk8opGdO1RCj-7" vertex="1">
           <mxGeometry width="60" height="30" relative="1" as="geometry">
             <mxPoint x="15" y="10" as="offset" />
           </mxGeometry>
